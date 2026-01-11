@@ -1,2 +1,1 @@
-# sales-tracker
-E-zone computers sales tracker
+# Here are your Instructions
